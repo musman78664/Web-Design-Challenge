@@ -1,6 +1,6 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Visualization Dashboard (Latitude)
 
 ## Background
 
 
-Create a website using HTML and CSS primarily from Bootstrap code snippets.  This page will be deployed to GitHub as html files.
+Web Visualization Dashboard of weather in 500+ cities at different latitude.  The visualizations show temperature, humidity, cloudiness, and wind speed using HTML, CSS and Bootstrap.
