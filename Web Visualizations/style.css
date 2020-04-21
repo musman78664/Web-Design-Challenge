@@ -45,6 +45,14 @@ color: darkturquoise;
 color: darkturquoise;
 }
 
+footer{
+  text-align: center;
+  position: fixed;
+  padding-top; 15px;
+  bottom; 0;
+  left; 0;
+}
+
 /* Here we define some styles that will ONLY be applied at screen sizes below 480 pixels */
 @media (max-width: 480px) {
 .my-nav {
